@@ -2,9 +2,7 @@ name: flutter_nude_checker
 description: A new Flutter plugin for checking nude images with mobile gpu acceleration.
 version: 1.0.0
 homepage: https://github.com/xeron56/flutter_nude_checker
-platforms:
-  - android
-  - ios
+
 topics: 
   - nudechecker
   - nudecheck
