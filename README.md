@@ -26,7 +26,7 @@ The `flutter_nude_checker` package provides a simple way to detect nude images i
 2. Run `flutter pub get` to install the package.
 
 ## Usage
-Download the yahoo open_nsfw model from [here](http://bit.ly/3r0Z3QH) and add it to the assets folder of your project. Then, add the following code to your project to detect nude images:
+Download the tflite model from [here](https://github.com/xeron56/flutter_nude_checker/releases/download/1.0.0/nsfw.tflite) and add it to the assets folder of your project. Then, add the following code to your project to detect nude images:
 
 ```dart
   Future<void> _getNSFWScore() async {
