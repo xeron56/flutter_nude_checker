@@ -69,4 +69,4 @@ This package is available under the MIT License. See the [LICENSE](LICENSE) file
 
 This package is developed and maintained by [MD. SHAHIDUL ISLAM](https://github.com/xeron56).
 
-If you have any questions or need assistance, feel free to contact us at [shahidul1425@cseku.ac.bd](mailto:shahidul1425@cseku.ac.bd).
+If you have any questions or need assistance, feel free to contact us at [shahidul7889@gmail.com](mailto:shahidul7889@gmail.com).
