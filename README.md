@@ -1,6 +1,6 @@
 # Flutter Nude Photo Checker - A Flutter Package for Detecting Nude Images
 
-![Flutter](https://img.shields.io/badge/Flutter-%5E3.13.3-blue.svg)
+[![pub.dev](https://img.shields.io/badge/pub.dev-1.0.1-blue.svg)](https://pub.dev/packages/flutter_nude_checker)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 The `flutter_nude_checker` package provides a simple way to detect nude images in Flutter apps. It uses the [yahoo open_nsfw](https://github.com/yahoo/open_nsfw) model to detect nude images. The model is able to detect nudity with better accuracy.
